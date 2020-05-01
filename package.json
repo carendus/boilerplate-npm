@@ -2,6 +2,7 @@
 	"author": "Pushpendu Sharma",
 	"description": "Learning Micro",
 	"keywords": ["MicroServices", "Node.JS", "freecodecamp"],
+	"license": "MIT"
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
