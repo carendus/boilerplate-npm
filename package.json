@@ -1,6 +1,7 @@
 {
 	"author": "Pushpendu Sharma",
 	"description": "Learning Micro",
+	"keywords": ["MicroServices", "Node.JS", "Free COde Camp"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
